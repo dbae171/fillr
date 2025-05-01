@@ -11,8 +11,8 @@ public class InventoryItem {
 
     private String itemName;
 
-    @Enumerated(EnumType.STRING)
-    private InventoryStatus status;
+//    @Enumerated(EnumType.STRING)
+//    private InventoryStatus status;
 
     private Integer reorderThreshold;
 
